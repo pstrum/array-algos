@@ -1,0 +1,22 @@
+{
+  "name": "array-algos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pstrum/array-algos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pstrum/array-algos/issues"
+  },
+  "homepage": "https://github.com/pstrum/array-algos#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
