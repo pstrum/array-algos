@@ -1,7 +1,6 @@
 var test = require('tape');
-var qsModule = require(__dirname + '/../src/quicksort');
-var qsDupModule = require(__dirname + '/../src/quicksortdup.js');
-var example = require(__dirname + '/../src/example');
+var qsModule = require(__dirname + '/../src/quicksort_module');
+var example = require(__dirname + '/../src/find_duplicate');
 
 test('swap the position of two elements', function (t) {
   t.plan(1);

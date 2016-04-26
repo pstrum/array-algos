@@ -1,5 +1,5 @@
 var testArray = require(__dirname + '/../test/large_array');
-var qsModule = require(__dirname + '/quicksort');
+var qsModule = require(__dirname + '/quicksort_module');
 
 module.exports = function getAnswer() {
   var exArray = testArray.createArray(1000,9);

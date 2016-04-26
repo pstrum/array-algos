@@ -1,5 +1,3 @@
-// Create an array with a specified length and duplicate value 
-
 var testArrayModule = module.exports = {
 
   createArray: function createArray(length, duplicate) {
