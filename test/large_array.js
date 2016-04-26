@@ -1,6 +1,4 @@
-//function randomNumber(min, max) {
-  //return Math.floor(Math.random() * (max - min + 1)) + min;
-//}
+// Create an array with a specified length and duplicate value 
 
 var testArrayModule = module.exports = {
 
@@ -8,7 +6,6 @@ var testArrayModule = module.exports = {
     'use strict';
     var myArray = [];
     for (var i = 1; i < length; i++) {
-      //var randomNum = randomNumber(1, length)
       myArray.push(i);
     }
     if (duplicate <= length) {

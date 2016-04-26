@@ -1,5 +1,3 @@
-'use strict';
-
 var test = require('tape');
 var qsModule = require(__dirname + '/../src/quicksort');
 var qsDupModule = require(__dirname + '/../src/quicksortdup.js');
